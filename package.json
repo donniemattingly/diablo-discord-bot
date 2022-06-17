@@ -1,0 +1,16 @@
+{
+  "name": "diablo-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.11",
+    "node-fetch": "^3.2.6",
+    "puppeteer": "^14.4.0"
+  }
+}
